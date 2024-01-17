@@ -1,28 +1,28 @@
 //Nombre:
-//TP N°:1
-//EJ N°:1
+//TP NÂ°:1
+//EJ NÂ°:1
 /*Comentarios:
-La Bolsa de Comercio de la Ciudad de Buenos Aires brinda la información de la cotización de algunas acciones de la semana pasada.
+La Bolsa de Comercio de la Ciudad de Buenos Aires brinda la informaciÃ³n de la cotizaciÃ³n de algunas acciones de la semana pasada.
 
-Por cada acción se tiene cinco registros de cotización.
+Por cada acciÃ³n se tiene cinco registros de cotizaciÃ³n.
 
-Cada cotización registra la siguiente información:
-- Código de acción (entero)
+Cada cotizaciÃ³n registra la siguiente informaciÃ³n:
+- CÃ³digo de acciÃ³n (entero)
 - Precio apertura (float)
 - Precio cierre (float)
 - Volumen de venta (entero)
 
-Los datos se encuentran agrupados por código de acción.
-Hay cinco cotizaciones por cada acción.
-El fin de los datos se indica con un código de acción igual a 0.
+Los datos se encuentran agrupados por cÃ³digo de acciÃ³n.
+Hay cinco cotizaciones por cada acciÃ³n.
+El fin de los datos se indica con un cÃ³digo de acciÃ³n igual a 0.
 
 
 Se pide calcular e informar:
-*A) Por cada acción, el promedio de volumen de venta.
+*A) Por cada acciÃ³n, el promedio de volumen de venta.
 -B) La cantidad de acciones que hayan registrado todas sus cotizaciones en alza. Es decir, el precio de cierre siempre sea mayor al precio de apertura.
-C) La acción que más haya incrementado su valor en una cotización en particular. Es
-decir, la diferencia entre el precio de apertura y precio de cierre más grande.
-*D) La cantidad de cotizaciones en las que el precio no varió. Es decir, el precio de
+C) La acciÃ³n que mÃ¡s haya incrementado su valor en una cotizaciÃ³n en particular. Es
+decir, la diferencia entre el precio de apertura y precio de cierre mÃ¡s grande.
+*D) La cantidad de cotizaciones en las que el precio no variÃ³. Es decir, el precio de
 apertura es igual al precio de cierre.
 */
 
@@ -72,7 +72,7 @@ int main(void)
             pa_acuVolVenta += volumenVenta;
 
             //OPERACIONES B)
-            if(precioCierre < precioApertura)
+            if(precioCierre <= precioApertura)
             {
                 pb_hayBajaEnCotizacion = 1;
             }
