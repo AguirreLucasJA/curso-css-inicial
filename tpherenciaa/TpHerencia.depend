@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1725915319 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\main.cpp
+	<iostream>
+	"Herramienta.h"
+	"Martillo.h"
+	"Destornillador.h"
+	"Taladro.h"
+	"TaladroPercutor.h"
+
+1725914812 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\herramienta.h
+	<string>
+
+1725915283 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\herramienta.cpp
+	<iostream>
+	"Herramienta.h"
+
+1725915191 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\martillo.h
+	"Herramienta.h"
+
+1725912179 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\martillo.cpp
+	<iostream>
+	"Martillo.h"
+
+1725912425 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\destornillador.h
+	"Herramienta.h"
+
+1725906765 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\destornillador.cpp
+	<iostream>
+	"Destornillador.h"
+
+1725912425 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\taladro.h
+	"Herramienta.h"
+
+1725907815 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\taladro.cpp
+	<iostream>
+	"Taladro.h"
+
+1725907815 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\taladropercutor.cpp
+	<iostream>
+	"TaladroPercutor.h"
+
+1725912425 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherencia\taladropercutor.h
+	"Taladro.h"
+
+1725993320 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\destornillador.cpp
+	<iostream>
+	"Destornillador.h"
+
+1725993202 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\destornillador.h
+	"Herramienta.h"
+
+1725993821 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\herramienta.h
+	<string>
+
+1725993716 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\main.cpp
+	<iostream>
+	"Herramienta.h"
+	"Martillo.h"
+	"Destornillador.h"
+	"Taladro.h"
+	"TaladroPercutor.h"
+
+1725993474 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\martillo.h
+	"Herramienta.h"
+
+1725990340 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\taladro.h
+	"Herramienta.h"
+
+1725990340 c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\taladropercutor.h
+	"Taladro.h"
+
+1725993801 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\martillo.cpp
+	<iostream>
+	"Martillo.h"
+
+1725992600 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\taladro.cpp
+	<iostream>
+	"Taladro.h"
+
+1725991412 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\taladropercutor.cpp
+	<iostream>
+	"TaladroPercutor.h"
+
+1725993754 source:c:\users\54117\desktop\utn\programacion ii\segundo cuatrimestre\semana 05\jueves\tpherenciaaaa\herramienta.cpp
+	<iostream>
+	"Herramienta.h"
+
